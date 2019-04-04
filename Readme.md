@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/WpfPivot_GettingStarted_Olap/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfPivot_GettingStarted_Olap/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/WpfPivot_GettingStarted_Olap/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfPivot_GettingStarted_Olap/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfPivot_GettingStarted_Olap/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfPivot_GettingStarted_Olap/MainWindow.xaml.vb))
 <!-- default file list end -->
 # WPF Pivot Grid - Getting Started - Bind a Pivot Grid to an OLAP Cube (Runtime sample)
 
