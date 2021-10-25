@@ -17,5 +17,5 @@ The example contains the source code of the project created in this step-by-step
 
 * [MainWindow.xaml](./CS/WpfPivot_GettingStarted_Olap/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfPivot_GettingStarted_Olap/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfPivot_GettingStarted_Olap/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfPivot_GettingStarted_Olap/MainWindow.xaml.vb))
-* .NET Framework Project: [CS](./CS/WpfPivot_GettingStarted_Olap/WpfPivot_GettingStarted_Olap.sln)([VB](./VB/WpfPivot_GettingStarted_Olap/WpfPivot_GettingStarted_Olap.sln))/ .NET 5 Project: [CS](./CS/WpfPivot_GettingStarted_Olap/WpfPivot_GettingStarted_Olap.Net5.sln)([VB](./VB/WpfPivot_GettingStarted_Olap/WpfPivot_GettingStarted_Olap.Net5.sln))
+* .NET Framework Project: [CS](./CS/WpfPivot_GettingStarted_Olap.sln)([VB](./VB/WpfPivot_GettingStarted_Olap.sln))/ .NET 5 Project: [CS](./CS/WpfPivot_GettingStarted_Olap.Net5.sln)([VB](./VB/WpfPivot_GettingStarted_Olap.Net5.sln))
 <!-- default file list end -->
