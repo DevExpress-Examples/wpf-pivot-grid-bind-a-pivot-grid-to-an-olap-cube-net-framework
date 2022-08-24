@@ -9,7 +9,7 @@ Namespace WpfPivot_GettingStarted_Olap
         Inherits Window
 
         Public Sub New()
-            InitializeComponent()
+            Me.InitializeComponent()
         End Sub
     End Class
 End Namespace
